@@ -1,0 +1,50 @@
+.item1 {
+    grid-row: 5000 / span 60000;
+  }
+
+body {
+    background-color:blueviolet;
+}
+
+p{
+    font-size: 60px;color: aliceblue;width: 80px;
+}
+
+h1 {
+    color: aqua;background-color: cyan;padding: 20px;font-size: 20px;vertical-align: top;width: 60px;
+}
+
+h2 {
+    color: aqua;background-color: cyan;padding: 20px;width: 60px;font-size: 20px;vertical-align: top;
+}
+
+h3 {
+    color: aqua;background-color: cyan;padding: 20px;width: 60px; font-size: 20px;vertical-align: top;
+}
+
+h4 {
+    color: aqua;background-color: cyan;padding: 20px;width: 60px; font-size: 20px;vertical-align: top;
+}
+
+h5 {
+    background-color: cyan;padding: 20px;width: 60px;font-size: 20px;color: rebeccapurple;vertical-align: top;
+}
+
+h6 {
+    background-color: cyan;padding: 20px;width: 60px;font-size: 20px;color: rebeccapurple;vertical-align: top;
+}
+
+
+h2,h3{
+    display: inline;
+    float: inline-end;
+}
+
+h4,h5,h6,h1{
+    display: inline;
+}
+
+
+
+
+
