@@ -4,7 +4,7 @@ const BOARD_HEIGHT = 8;
 const TILE_SIZE = 50;
 const WHITE_TILE_COLOR = "rgb(255, 228, 196)";
 const BLACK_TILE_COLOR = "rgb(206, 162, 128)";
-const HIGHLIGHT_COLOR = "rgb(75, 175, 75)";
+const HIGHLIGHT_COLOR = "pink";
 const WHITE = 0;
 const BLACK = 1;
 
