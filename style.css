@@ -1,0 +1,27 @@
+body{
+    background-color: blueviolet;
+}
+
+h1{
+    padding: 20px;width: 80px;display: inline;font-size: 40px;
+}
+
+h2{
+    padding: 20px;font-size: 40px;display: inline;
+}
+
+h3{
+    padding: 20px;font-size: 40px;display: inline;
+}
+
+h4{
+    padding: 20px;font-size: 40px;display: inline;
+}
+
+h5{
+    padding: 20px;font-size: 40px;display: inline;
+}
+
+h6{
+    padding: 20px;font-size: 40px;display: inline;
+}
