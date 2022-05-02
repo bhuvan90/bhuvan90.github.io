@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Chess(Multiplayer)</title>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="js/script.js"></script>
+	<style>
+		h1,h2,h3{
+			text-align:center;
+		}
+	</style>
+</head>
+
+<body style="background-color: blueviolet;">
+    <h1 style="color: aliceblue;">Chess(Local Multiplayer)</h1>
+	<div style="float:left;">
+		<h2 id="currentTeamText" style="color: aliceblue;"></h2>
+		<h2 style="color: aliceblue;">White pieces lost:</h2>
+		<h3 id="whiteCasualities" style="color: aliceblue;"></h2>
+		<h2 style="color: aliceblue;">Black pieces lost:</h2>
+		<h3 id="blackCasualities" style="color: aliceblue;"></h2>
+		<h2 id="totalVictories" style="color: aliceblue;"></h2>
+	</div>
+    <div style="float:left;">
+		<canvas id="chessCanvas" width="400" height="400" style="margin-left:40%;"></canvas>
+    </div>
+	
+</body>
