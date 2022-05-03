@@ -1,11 +1,15 @@
 h1{
-    font-size: 60px;color: aliceblue;text-align: center;
+    font-size: 60px;color: aliceblue;text-align: center;border: orange;border-width: 5px;border-style: solid;
 }
 
 h2{
-    background-color: purple;padding: 100px;color: aliceblue;font-size: 60px;
+    background-color: purple;padding: 100px;color: aliceblue;font-size: 60px;border: orange;border-width: 5px;border-style: solid;
 }
 
 h3{
-    background-color: purple;padding: 100px;color: aliceblue;font-size: 60px;
+    background-color: purple;padding: 100px;color: aliceblue;font-size: 60px;border: orange;border-width: 5px;border-style: solid;
+}
+
+#p1{
+    color: aliceblue;border: orange;border-width: 5px;border-style: solid;
 }
