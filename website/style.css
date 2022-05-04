@@ -25,3 +25,20 @@ h5{
 h6{
     padding: 20px;font-size: 40px;display: inline;
 }
+
+#i1{
+    font-size: 60px;text-align: center;color: aliceblue;border: orange;border-width: 5px;border-style: solid;
+}
+
+#i2{
+    font-size: 30px;color: aliceblue;float: left;border: orange;border-style: solid;width: 550px;display: inline;text-align: center;
+}
+
+#i3{
+    font-size: 30px;color: aliceblue;float: right;border: orange;border-style: solid;width: 550px;display: inline;text-align: center;
+}
+
+#p10{
+    padding: 20px;font-size: 40px;display: inline;font-weight: bold;
+}
+
